@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><policies><policy policyName="AmazonS31" policyTemplate="online_v1_basic" policyType="amazons3"><applicationType>online</applicationType><applicationVersion>v1</applicationVersion><authenticationMethod>BASIC</authenticationMethod><region>us-east-1</region><credentialName>awss3_AmazonS31</credentialName></policy></policies>
